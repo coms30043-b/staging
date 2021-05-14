@@ -258,7 +258,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @ignore
 		 * @type {Array.<string>}
 		 */
-		persistentPaths: ['/userfs'],
+		persistentPaths: [''],
 		/**
 		 * @ignore
 		 * @type {boolean}
